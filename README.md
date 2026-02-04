@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/animated.gif" width="200" alt="Animated avatar">
+  <img src="KC_DESIGNS.gif" width="200" alt="Animated avatar">
 </p>
 
 Hi, I'm Kartik — welcome to my profile!
